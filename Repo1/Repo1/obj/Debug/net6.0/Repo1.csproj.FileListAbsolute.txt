@@ -1,0 +1,15 @@
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\bin\Debug\net6.0\Repo1.exe
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\bin\Debug\net6.0\Repo1.deps.json
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\bin\Debug\net6.0\Repo1.runtimeconfig.json
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\bin\Debug\net6.0\Repo1.dll
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\bin\Debug\net6.0\Repo1.pdb
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\Repo1.csproj.AssemblyReference.cache
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\Repo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\Repo1.AssemblyInfoInputs.cache
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\Repo1.AssemblyInfo.cs
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\Repo1.csproj.CoreCompileInputs.cache
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\Repo1.dll
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\refint\Repo1.dll
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\Repo1.pdb
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\Repo1.genruntimeconfig.cache
+C:\Users\PibO0122010\source\repos\Repo1\Repo1\obj\Debug\net6.0\ref\Repo1.dll
